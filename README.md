@@ -1,4 +1,4 @@
-# dynamic_clustering
+# emergent_clustering
 
 Advantage:  Automatically determines number of clusters 
 Hyperparameters:  Neighbourhood Radius, step size
